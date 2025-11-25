@@ -1,0 +1,51 @@
+.par{
+    color:brown;
+    font-size: 70px;
+}
+.p{
+    text-align:center;
+    font-size:70px;
+
+}
+h1{
+    text-align: center;
+}
+
+.jk{
+    display: block;
+}
+.container{
+    height: 50px;
+    text-align: center;
+
+}
+.boxbox1{
+    display: inline-block;
+    width: 50px;
+    color: black;
+    border: 50cap;
+    border-color: bisque;
+    background-color: red;
+    height: 300px;
+    width: 200px;
+    font-size: 20px;
+}
+.boxbox2{
+    display: inline-block;
+    width: 50px;
+    margin: 50cqb;
+    color: black;
+    background-color: aqua;
+    height: 300px;
+    width: 200px;
+    font-size: 20px;
+
+}
+.boxbox3{
+    display: inline-block;
+    color: black;
+    background-color: aquamarine;
+    height: 300px;
+    width: 200px;
+    font-size: 20px;
+}
